@@ -1,2 +1,2 @@
-def upperCase(str):
+def uppercase(str):
     return str.upper()

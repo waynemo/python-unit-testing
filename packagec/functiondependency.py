@@ -1,4 +1,5 @@
-import packagea.samplefunction as module
+import packagea.samplefunction as samplefunction_module
 
-def upperCase(str):
-    return module.upperCase(str)
+
+def uppercase(str):
+    return samplefunction_module.uppercase(str)
